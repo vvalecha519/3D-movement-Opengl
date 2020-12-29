@@ -1,0 +1,2 @@
+C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\Debug\Project2.exe
+C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\Debug\Project2.pdb

@@ -1,0 +1,6 @@
+﻿  application.cpp
+C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\src\application.cpp(117,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\src\application.cpp(123,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\src\application.cpp(164,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\src\application.cpp(267,11): warning C4101: 'getValue': unreferenced local variable
+  Project2.vcxproj -> C:\Users\valev\OneDrive\Desktop\My CS\Opengl Practice\Project2\Debug\Project2.exe
